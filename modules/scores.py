@@ -15,7 +15,7 @@ import os, re
 
 class Scores:
     def __init__(self):
-        self.scores_filename = os.path.expanduser('~/.jenni/scores.txt')
+        self.scores_filename = os.path.expanduser('~/.hybot/scores.txt')
         self.scores_dict = dict()
         self.load()
         self.STRINGS = {
