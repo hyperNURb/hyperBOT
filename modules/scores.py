@@ -57,7 +57,7 @@ class Scores:
 
             self.save()
             chan = input.sender
-            jenni.say(self.str_score(nick, chan))
+            # jenni.say(self.str_score(nick, chan))
 
     def save(self):
         """ Save to file in comma seperated values """
