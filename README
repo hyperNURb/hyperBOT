@@ -1,8 +1,8 @@
 Installation &c.
 
-1) Run ./jenni - this creates a default config file
+1) Run ./hybot - this creates a default config file
 2) Edit ~/.jenni/default.py
-3) Run ./jenni - this now runs jenni with your settings
+3) Run ./hybot - this now runs jenni with your settings
 
 Enjoy!
 
@@ -10,6 +10,6 @@ Enjoy!
 
 For a list of contributions to the Jenni fork see the file CREDITS.
 
--- 
+--
 Sean B. Palmer, http://inamidst.com/sbp/
 forked by Michael Yanovich, https://yanovich.net/
