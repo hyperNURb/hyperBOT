@@ -273,8 +273,8 @@ def show_title_auto (jenni, input):
         if useBitLy: r[1] = r[2]
         else: r[1] = getTLD(r[1])
         jenni.say('[ %s ] - %s' % (r[0], r[1]))
-show_title_auto.rule = '(?u).*(%s?(http|https)(://\S+)).*' % (EXCLUSION_CHAR)
-show_title_auto.priority = 'high'
+# show_title_auto.rule = '(?u).*(%s?(http|https)(://\S+)).*' % (EXCLUSION_CHAR)
+# show_title_auto.priority = 'high'
 
 def show_title_demand (jenni, input):
     results = get_results(input.group(2))

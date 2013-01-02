@@ -1,13 +1,13 @@
-#hypTestBot,hyperNURb,hyperNURb++
-#hypTestBot,hyperNURb,++
-#hypTestBot,hyperNURb,hyperNURb++
-#hypTestBot,hyperNURb,_hyperBOT_++
-#hypTestBot,hyperNURb,_hyperBOT_++
-#hypTestBot,hyperNURb,.addpoints hyperNURb
 #hypTestBot,hyperNURb,.addpoint hyperNURb
 #hypTestBot,hyperNURb,_hyperBOT_++
 #hypTestBot,hyperNURb,_hyperBOT_++
 #hypTestBot,hyperNURb,_hyperBOT_++
+#hypTestBot,hyperNURb,https://twitter.com/Krabadahija/status/286511094888009728
+#hypTestBot,hyperNURb,https://twitter.com/Krabadahija/status/286511094888009728
+#hypTestBot,hyperNURb,https://twitter.com/Krabadahija/status/286511094888009728
+#hypTestBot,hyperNURb,https://twitter.com/MelissaArlio/status/286539162847436800
+#hypTestBot,hyperNURb,https://twitter.com/MelissaArlio/status/286539162847436800
+#hypTestBot,hyperNURb,https://twitter.com/iamFinch/status/286539152533630976
 #psywerx,_botko_,hyperNURb, why are you reposting your own links?
 #psywerx,_botko_,You sir, are a self-reposter.
 #psywerx,_botko_,hyperBOT, I'd like to congratulate you on your original link... but you've posted it here before.

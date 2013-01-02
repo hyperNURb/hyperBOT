@@ -91,5 +91,14 @@ def twitter(jenni, input):
 twitter.commands = ['tw', 'twitter']
 twitter.thread = True
 
+
+def get_twitter_status(jenni, input):
+    """Returns text from Twitter status"""
+    tid = input.split('/')[-1]
+    if tid:
+        jenni.say(id_tweet(tid))
+
+get_twitter_status.rule = r'https://twitter.com/(\w+)*/status/(\d+)'
+
 if __name__ == '__main__':
     print __doc__
