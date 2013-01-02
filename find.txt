@@ -1,13 +1,13 @@
-#hypTestBot,hyperNURb,.addpoint hyperNURb
-#hypTestBot,hyperNURb,_hyperBOT_++
-#hypTestBot,hyperNURb,_hyperBOT_++
-#hypTestBot,hyperNURb,_hyperBOT_++
-#hypTestBot,hyperNURb,https://twitter.com/Krabadahija/status/286511094888009728
-#hypTestBot,hyperNURb,https://twitter.com/Krabadahija/status/286511094888009728
-#hypTestBot,hyperNURb,https://twitter.com/Krabadahija/status/286511094888009728
-#hypTestBot,hyperNURb,https://twitter.com/MelissaArlio/status/286539162847436800
-#hypTestBot,hyperNURb,https://twitter.com/MelissaArlio/status/286539162847436800
-#hypTestBot,hyperNURb,https://twitter.com/iamFinch/status/286539152533630976
+#hypTestBot,hyperNURb,                            http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
+#hypTestBot,hyperNURb,                            http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
+#hypTestBot,hyperNURb,Hello http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
+#hypTestBot,hyperNURb, http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
+#hypTestBot,hyperNURb,hyperNURb++  hwqdwq
+#hypTestBot,hyperNURb,hyperNURb++  hwqdwq++ dsa++
+#hypTestBot,hyperNURb,hyperNURb++
+#hypTestBot,hyperNURb,hyperNURb--
+#hypTestBot,hyperNURb,hyperNURb++ ima malu nogu yay
+#hypTestBot,hyperNURb,hyperNURb++ Hairty++ _hyperBOTz--
 #psywerx,_botko_,hyperNURb, why are you reposting your own links?
 #psywerx,_botko_,You sir, are a self-reposter.
 #psywerx,_botko_,hyperBOT, I'd like to congratulate you on your original link... but you've posted it here before.
@@ -22,21 +22,21 @@
 #psywerx,rainbowsocks,ponywithhiccups: hahah, ta je bolna ja 
 #psywerx,rainbowsocks,damn it, Katie! http://imgur.com/fnIoF
 #psywerx,rainbowsocks,tale hoodi je pa čist za zidar-ja http://imgur.com/YEgcB
-#psywerx,LorD_DDooM,Dexxter je bil en model uz Visokega kod Sarajeva
-#psywerx,LorD_DDooM,Dost model drgač
-#psywerx,LorD_DDooM,pa boti morajo imeti _ predpono, _hyperBOT_ :)
-#psywerx,smotko,HairyFotr1: vse kar vem je, da je bil dexxter en tip k je nekoc mel en forum na nasmu serverju.
-#psywerx,smotko,ne vem pa kdo je bil ta model, mislm, da ga je tiln poznov
-#psywerx,smotko,ACTION pokes hyperBOT
+#psywerx,Swizec,sam tale tumblr ...
+#psywerx,Swizec,I have seen my future and I don't want
+#psywerx,Swizec,so everyone please stop being married and shit
+#psywerx,Swizec,rainbowsocks++ za tumblr I guess
 #psywerx,Mirketz,rainbowsocks++
 #psywerx,Mirketz,hehe
 #psywerx,Mirketz,hvala, hvala :)
 #psywerx,Mirketz,hehehe fear of the wedding :)
 #psywerx,Mirketz,hahaha I agree rainbowsocks++
-#psywerx,Swizec,sam tale tumblr ...
-#psywerx,Swizec,I have seen my future and I don't want
-#psywerx,Swizec,so everyone please stop being married and shit
-#psywerx,Swizec,rainbowsocks++ za tumblr I guess
+#psywerx,smotko,HairyFotr1: vse kar vem je, da je bil dexxter en tip k je nekoc mel en forum na nasmu serverju.
+#psywerx,smotko,ne vem pa kdo je bil ta model, mislm, da ga je tiln poznov
+#psywerx,smotko,ACTION pokes hyperBOT
+#psywerx,LorD_DDooM,Dexxter je bil en model uz Visokega kod Sarajeva
+#psywerx,LorD_DDooM,Dost model drgač
+#psywerx,LorD_DDooM,pa boti morajo imeti _ predpono, _hyperBOT_ :)
 #psywerx,ponywithhiccups,hello
 #psywerx,ponywithhiccups,a new bot :O
 #psywerx,ponywithhiccups,kaj pa dela

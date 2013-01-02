@@ -56,7 +56,7 @@ class Scores:
                 self.scores_dict[input.sender][nick][1] += 1
 
             self.save()
-            chan = input.sender
+            # chan = input.sender
             # jenni.say(self.str_score(nick, chan))
 
     def save(self):
@@ -235,13 +235,6 @@ addpoint_command.priority = 'high'
 addpoint_command.rate = 300
 
 
-def addquick_command(jenni, input):
-    """<nick>++ - Adds 1 point to the score system for <nick>."""
-    nick = input.strip('+')
-    scores.editpoints(jenni, input, nick, True)
-addquick_command.rule = r'\w+\+{2}'
-
-
 def rmpoint_command(jenni, input):
     """.rmpoint <nick> - Removes 1 point to the score system for <nick>."""
     nick = input.group(2)
@@ -253,11 +246,18 @@ rmpoint_command.priority = 'high'
 rmpoint_command.rate = 300
 
 
-def rmquick_command(jenni, input):
-    """<nick>-- - Removes 1 point to the score system for <nick>."""
-    nick = input.strip('-')
-    scores.editpoints(jenni, input, nick, False)
-rmquick_command.rule = r'\w+\-{2}'
+def quick_command(jenni, input):
+    """<nick>(++ or --) - Adds or removes 1 point to the score system for <nick>."""
+
+    for user in input.split(' '):
+        if user.endswith('++'):
+            nick = user.replace('+', '')
+            scores.editpoints(jenni, input, nick, True)
+        elif user.endswith('--'):
+            nick = user.replace('-', '')
+            scores.editpoints(jenni, input, nick, False)
+
+quick_command.rule = r'.*(\w*[\+|-]{2}).*'
 
 
 def view_scores(jenni, input):
