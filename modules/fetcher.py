@@ -23,6 +23,7 @@ def extract_link(input):
 
 def print_title(jenni, input):
     """Detects paste of YT link and returns title"""
+    input = input.encode('utf-8')
     urls = extract_link(input)
     for url in urls:
         response = get_link_data(url)
@@ -30,8 +31,10 @@ def print_title(jenni, input):
         if 'error' in response:
             print 'Error fetching %s' % url
         else:
-            if response['title'] and response['provider_name']:
-                jenni.say("Whooa, I <3 %s : %s" % (response['provider_name'], response['title']))
+            if response['title'] == url:
+                jenni.say("%s is so much FUN!" % (response['provider_name']))
+            else:
+                jenni.say("YAY! I <3 %s : %s" % (response['provider_name'], response['title']))
 
 print_title.rule = r'.*\s?http[s]?://[^\s<>"]+|www\.[^\s<>"]+'
 
