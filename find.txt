@@ -1,13 +1,13 @@
-#hypTestBot,hyperNURb,                            http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
-#hypTestBot,hyperNURb,                            http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
-#hypTestBot,hyperNURb,Hello http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
-#hypTestBot,hyperNURb, http://www.youtube.com/watch?v=uqcyDA2L5L0&feature=player_embedded
-#hypTestBot,hyperNURb,hyperNURb++  hwqdwq
-#hypTestBot,hyperNURb,hyperNURb++  hwqdwq++ dsa++
-#hypTestBot,hyperNURb,hyperNURb++
-#hypTestBot,hyperNURb,hyperNURb--
-#hypTestBot,hyperNURb,hyperNURb++ ima malu nogu yay
-#hypTestBot,hyperNURb,hyperNURb++ Hairty++ _hyperBOTz--
+#hypTestBot,hyperNURb,don't mind me, just testing a pidgin plugin http://www.youtube.com/watch?v=IBH97ma9YiI
+#hypTestBot,hyperNURb,don't mind me, just testing a pidgin plugin http://www.youtube.com/watch?v=IBH97ma9YiI
+#hypTestBot,hyperNURb,robertbasic http://swizec.com/blog/a-new-years-eve-in-belgrade/swizec/5798
+#hypTestBot,hyperNURb,https://gist.github.com/ee9566940329c6098c4c
+#hypTestBot,hyperNURb,https://gist.github.com/ee9566940329c6098c4c
+#hypTestBot,hyperNURb,https://github.com/eewan/hyperBOT
+#hypTestBot,hyperNURb,https://github.com/eewan/hyperBOT/commit/e7c6e2781d905754fee2364c51364c9188b1b657
+#hypTestBot,hyperNURb,http://www.youtube.com/watch?v=9bZkp7q19f0
+#hypTestBot,hyperNURb,http://imgur.com/a/hsslJ?gallery
+#hypTestBot,hyperNURb,https://github.com/juliangarnier/3D-Hartwig-chess-set/commit/ceba034bc24553047109046533bba9b04be57dca
 #psywerx,_botko_,hyperNURb, why are you reposting your own links?
 #psywerx,_botko_,You sir, are a self-reposter.
 #psywerx,_botko_,hyperBOT, I'd like to congratulate you on your original link... but you've posted it here before.
