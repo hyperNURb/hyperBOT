@@ -28,15 +28,15 @@ def print_title(jenni, input):
     for url in urls:
         response = get_link_data(url)
         print response
+
         if 'error' in response:
             print 'Error fetching %s' % url
         else:
-            if response['title'] == url:
-                jenni.say("%s is so much FUN!" % (response['provider_name']))
-            else:
-                jenni.say("YAY! I <3 %s : %s" % (response['provider_name'], response['title']))
+            if response['type'] == 'video':
+                if response['title'] != url:
+                    jenni.say("Interesting %s %s you got there: %s" % (response['type'], response['provider_name'], response['title']))
 
-print_title.rule = r'.*\s?http[s]?://[^\s<>"]+|www\.[^\s<>"]+'
+print_title.rule = r'.*\s*http[s]?://[^\s<>"]+|www\.[^\s<>"]+'
 
 
 if __name__ == '__main__':
