@@ -34,7 +34,7 @@ def print_title(jenni, input):
         else:
             if response['type'] == 'video':
                 if response['title'] != url:
-                    jenni.say("Interesting %s %s you got there: %s" % (response['type'], response['provider_name'], response['title']))
+                    jenni.say("Interesting %s %s you got there: %s" % (response['provider_name'], response['type'], response['title']))
 
 print_title.rule = r'.*\s*http[s]?://[^\s<>"]+|www\.[^\s<>"]+'
 
