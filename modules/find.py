@@ -16,6 +16,8 @@ using the sed notation (s///) commonly found in vi/vim.
 import os, re
 
 
+find_filename = os.path.expanduser('~/.hybot/find.txt');
+
 def give_me_unicode(obj, encoding="utf-8"):
     if isinstance(obj, basestring):
         if not isinstance(obj, unicode):
@@ -24,11 +26,12 @@ def give_me_unicode(obj, encoding="utf-8"):
 
 def load_db():
     """ load lines from find.txt to search_dict """
-    if not os.path.isfile("~/.hybot/find.txt"):
-        f = open("~/.hybot/find.txt", "w")
+    print find_filename
+    if not os.path.isfile(find_filename):
+        f = open(find_filename, "w")
         f.write("#test,yano,foobar\n")
         f.close()
-    search_file = open("~/.hybot/find.txt", "r")
+    search_file = open(find_filename, "r")
     lines = search_file.readlines()
     search_file.close()
     search_dict = dict()
@@ -57,7 +60,7 @@ def load_db():
 
 def save_db(search_dict):
     """ save search_dict to find.txt """
-    search_file = open("~/.hybot/find.txt", "w")
+    search_file = open(find_filename, "w")
     for channel in search_dict:
         if channel is not "":
             for nick in search_dict[channel]:
