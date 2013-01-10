@@ -248,7 +248,7 @@ rmpoint_command.rate = 300
 
 def quick_command(jenni, input):
     """<nick>(++ or --) - Adds or removes 1 point to the score system for <nick>."""
-
+    input = input.encode('utf-8')
     for user in input.split(' '):
         if user.endswith('++'):
             nick = user.replace('+', '')
